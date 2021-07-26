@@ -1,0 +1,7 @@
+Paso1. Ingresar a www.gmail.com
+Paso2. Ingresar correo (pp252525252585@gmail.com) y contraseña (zaqwe456)
+Paso3. En la pantalla principal del correo, en el menú inferior izquierdo cliquear en el ícono (+) "Nueva conversación"
+Paso4. En la ventana emergente, para el campo "Nombre, correo o teléfono" escribir un correo electrónico pre-existente
+Paso5. Seleccionar el primer resultado
+Paso6. (Opcional) En la ventana emergente cliquear en "Enviar invitación"
+Paso7. Cerrar sesión de Gmail 

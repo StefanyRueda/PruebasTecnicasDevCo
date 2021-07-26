@@ -1,0 +1,9 @@
+Paso1. Ingresar a www.gmail.com
+Paso2. Ingresar correo (pp252525252585@gmail.com) y contraseña (zaqwe456)
+Paso3. En la pantalla principal para el menú ubicado en la parte derecha de la pantalla, 
+	cliquear el ícono (+) "Descargar complementos"
+Paso4. En la ventana emergente, esquina superior izquierda cliquear el ícono "Menú", 
+Paso5. De la lista desplegable seleccionar "Más instaladas"
+Paso6. Seleccionar la primera aplicación de la busqueda
+Paso7. Cerrar ventana emergente actual
+Paso8. Cerrar sesión de Gmail.

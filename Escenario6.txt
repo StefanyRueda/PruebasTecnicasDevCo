@@ -1,0 +1,9 @@
+Paso1. Ingresar a www.gmail.com
+Paso2. Ingresar correo (pp252525252585@gmail.com) y contraseña (zaqwe456)
+Paso3. En la pantalla principal del correo, en la parte superior derechar cliquear en el ícono "Aplicaciones de Google"
+Paso4. Buscar y seleccionar la aplicación "Noticias"
+Paso5. En la nueva pestaña seleccionar "Busca temas, ubicaciones y fuentes" y escribir "Tuluá".Enter.
+Paso6. En la pantalla actual, parte superior derecha, cliquear el ícono "Seguir"
+Paso7. Colocar el cursor sin cliquear, en el menú izquierdo, para la opción "Siguiendo", desplegando una lista. 
+	"Tuluá" debe estar posicionado en esta lista.
+Paso8. Cerrar sesión de Gmail en la ventana actual
